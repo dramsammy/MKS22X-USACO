@@ -1,5 +1,5 @@
 public class USACO{
-  public static ary[][] = new
+  public static ary[][];
   public static int bronze(String filename) throws FileNotFoundException{
     int check = arg1.length();
     File file = new File(filename);
